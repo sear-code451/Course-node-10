@@ -1,0 +1,1 @@
+[CRUD: la base de la gestión de datos](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/crud-las-principales-operaciones-de-bases-de-datos/)
